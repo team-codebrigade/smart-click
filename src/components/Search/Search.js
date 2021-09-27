@@ -47,7 +47,7 @@ const Search = () => {
     <section id="search">
       <div className="max-width">
         <h2 className="title">Search For Parking</h2>
-        <div className="content">
+        <div className="content wrap-reverse">
           <div className="column left">
             <lottie-player src="https://assets9.lottiefiles.com/packages/lf20_9ee7bmlt.json"  background="transparent"  speed="1"  style={{width: "100%", height: "100%"}}  loop autoplay></lottie-player>
           </div>

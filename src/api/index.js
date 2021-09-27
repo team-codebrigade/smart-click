@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const url = 'http://localhost:5000';
+const url = 'https://smart--click.herokuapp.com';
 
 export const sendInfo = (contactInfo) => axios.post(`${url}/contact`, contactInfo);
 export const searchLocation = (location) => axios.get(`${url}/search`, {params: {key: location}});

@@ -4,6 +4,7 @@
 #search form {
   margin-top: 70px;
 }
+#search .button,
 #search button {
   margin: 0;
 }
