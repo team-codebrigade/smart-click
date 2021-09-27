@@ -1,0 +1,28 @@
+.message {
+  width: 100%;
+  height: fit-content;
+  border-radius: 0.5em;
+  text-align: center;
+}
+
+.message p{
+  padding-block: 8px;
+  margin: 0;
+}
+
+.message-info {
+  background-color: whitesmoke;
+  box-shadow: 5px 5px 5px lightgray;
+}
+
+.message-success {
+  background-color: rgb(186, 238, 186);
+  color: #20a020;
+  border: 1.5px solid #20a020;
+}
+
+.message-error {
+  background-color: rgb(238, 186, 186);
+  color: #a02020;
+  border: 1.5px solid #a02020;
+}

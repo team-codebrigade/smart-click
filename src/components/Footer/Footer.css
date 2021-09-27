@@ -1,0 +1,24 @@
+footer {
+  border: 2px solid purple;
+  background-color: purple;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+div.top {
+  margin-top: 10px;
+}
+
+div.top i {
+  font-size: 27px;
+  margin: 0 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in;
+}
+
+div.top i:hover {
+  transform: translateY(-3px);
+}

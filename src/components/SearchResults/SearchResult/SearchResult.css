@@ -1,0 +1,34 @@
+#search-result h3 {
+  font-size: 21px;
+  font-weight: 600;
+}
+
+#search-result .button {
+  height: 40px;
+  width: 80%;
+  margin: 15px auto;
+}
+
+#search-result button {
+  height: 100%;
+  width: 100%;
+  cursor: no-drop;
+}
+
+#search-result button:hover {
+  background-color: rgb(99, 0, 99);
+}
+
+#search-results .right > div {
+  margin: auto;
+}
+
+
+#search-results .info {
+  margin-left: 0px;
+}
+#search-result img {
+  width: 100%;
+  height: 100%;
+  border-radius: 12px;
+}

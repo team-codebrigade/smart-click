@@ -1,0 +1,15 @@
+#search .title::after {
+  content: "locate now";
+}
+#search form {
+  margin-top: 70px;
+}
+#search button {
+  margin: 0;
+}
+#search input {
+  width: 90%;
+}
+.d-flex {
+  display: flex;
+}

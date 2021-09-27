@@ -1,0 +1,6 @@
+header .animated-text {
+  color: var(--theme-color);
+}
+header p strong {
+  font-size: 20px;
+}
